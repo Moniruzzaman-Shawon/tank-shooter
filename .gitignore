@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.tank_shooter_scores.json
+.DS_Store
+.claude/
