@@ -18,6 +18,10 @@ A professional, object-oriented tank combat game rendered entirely in the termin
  HP [████████████████████] 100/100              SCORE:   350
  WAVE 2  •  Enemies: 2
 ```
+<img width="822" height="560" alt="image" src="https://github.com/user-attachments/assets/b65dfbea-034c-4ead-a6e8-e7436f659ee8" />
+
+<img width="642" height="524" alt="image" src="https://github.com/user-attachments/assets/7d163e2b-1d33-4b63-a2e2-7725d61aa1de" />
+
 
 ## Features
 
