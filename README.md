@@ -78,6 +78,4 @@ python3 tank_shooter.py
 | `Leaderboard` | JSON-backed persistent high-score table |
 | `Game` | Main loop — input → update → collisions → render at 12 TPS |
 
-## License
 
-MIT
